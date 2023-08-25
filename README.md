@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on : Done,i'm not enought knowlengle to working for company or conglomerate
+- 🌱 I’m currently learning ◀️ Backend Developer (Java Language is main)
+- 👯 I’m looking to collaborate on : some IT student in university
+- 🤔 I’m looking for help with : Knowlengle is zero
+- 💬 Ask me about: Dev Lỏ cần học hỏi nhiều
+- 📫 How to reach me: ...
+- 😄 Pronouns: Kkk
+- ⚡ Fun fact: No More
 <!--
 **PhanAnhTuan123/phananhtuan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
